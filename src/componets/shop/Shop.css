@@ -1,0 +1,22 @@
+.scarch-contanier{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.822);
+    line-height: 40px;
+}
+.scarch-contanier input{
+    width:75% ;
+    line-height: 20px;
+}
+
+
+
+
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container{
+    margin-right: 10px;
+    border-right: 1px solid gray;
+    margin-left: 20%;
+}
